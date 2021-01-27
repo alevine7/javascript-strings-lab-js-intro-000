@@ -1,2 +1,2 @@
-var greeting = "Hello"
-greeting  + ", everybody!"
+var greeting = "Hello, everybody!"
+greeting  
