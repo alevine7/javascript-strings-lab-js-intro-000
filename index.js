@@ -6,4 +6,3 @@ var conversation = `Let's talk about ${topic}.`
 greeting
 greetSpecialGuest
 conversation
-
